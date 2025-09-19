@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Devashish Sonawane</h1>
 <h3 align="center">Full Stack Developer | Passionate about building end-to-end solutions.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devashishsonawane16&label=Profile%20views&color=0e75b6&style=flat" alt="devashishsonawane16" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devashishsonawane16" alt="devashishsonawane16" /></a> </p>
+
+- 🔭 I’m currently working on **TherapySeva**
+
+- 🌱 I’m currently learning **Full Stack Development in Java/Python**
+
+- 📫 How to reach me **devashishsonawane788@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devashish sonawane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devashish sonawane" height="30" width="40" /></a>
